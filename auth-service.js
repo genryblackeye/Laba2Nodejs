@@ -6,10 +6,14 @@ const {secret} = require("./config")
 
 const generateAccessToken = (id, roles) => {
 <<<<<<< HEAD
+<<<<<<< HEAD
     const payload =  {
 =======
     const payload1 =  {
 >>>>>>> branch_1
+=======
+    const payload2 =  {
+>>>>>>> branch_2
         id,
         roles
     }
